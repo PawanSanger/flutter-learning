@@ -1,2 +1,2 @@
 # flutter-learning
-start learnig flutter 1-december-2025
+start learnig flutter 1-november-2025
